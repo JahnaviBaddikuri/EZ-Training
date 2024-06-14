@@ -1,7 +1,7 @@
 # EZ-Training
 ## Programs of Python based on different concepts <br>
-<h3>___Problem Statements___</h3><br>
-* **Prime problem**: In the enchanted land of Numeria, Alice is on a quest to find the legendary 
+<h3>Problem Statements</h3><br>
+* ## Prime problem: In the enchanted land of Numeria, Alice is on a quest to find the legendary 
   Prime Key to unlock the ancient Vault of Secrets. The vault's guardian, an 
   ancient sphinx, presents a multi-step puzzle that Alice must solve to obtain the 
   Prime Key.<br>
