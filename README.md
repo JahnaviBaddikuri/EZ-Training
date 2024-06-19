@@ -1,4 +1,4 @@
-# EZ-Training
+# EZTS-Training
 ## Programs of Python based on different concepts <br>
 ## Problem Statements<br>
 * __Prime problem__: In the enchanted land of Numeria, Alice is on a quest to find the legendary 
